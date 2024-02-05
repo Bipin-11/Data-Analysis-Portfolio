@@ -8,12 +8,13 @@ This repository serves to showcase my skills, as a platform to share my projects
 
 # Table of Contents
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
-* [Porfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#potfolio-projects)
+* [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
    * SQL
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
    * Excel
+     * [Bike Sales Analysis and Customer Profiling Dashboard in Excel](
    * Tableau [Tableau Project Link](https://public.tableau.com/app/profile/bipin.chaudhary3964/vizzes)
 * [Education](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#education)
 * [Certificates](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
@@ -40,6 +41,26 @@ In this section, I will list data analytics projects, briefly describing the tec
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology:** SQL Server
+
+# Bike Sales Analysis and Customer Profiling
+
+**Code:** [Bike Sales Analysis Project.xlsx](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Bike%20Sales%20Analysis.xlsx)
+
+**Description:** This project involves analyzing bike sales data along with customer demographic information such as income, gender, marital status, occupation, age, region, education, and children. The dataset covers bike sales transactions and customer profiles, enabling the analysis of purchasing behavior based on demographic factors. Tasks include data cleaning, customer profiling, sales analysis, and creating an interactive dashboard to visualize insights on bike purchases correlated with customer demographics.
+
+**Skills:** Excel functions and formulas; data cleaning; data analysis; pivot tables; dashboard creation; customer profiling.
+
+**Technology:** Microsoft Excel.
+
+# Coffee Sales Analysis
+
+**Code:** [Coffee Sales Analysis Project.xlsx](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Coffee%20Sales%20Analysis.xlsx)
+
+**Description:** This project involves analyzing coffee sales data from three tables: orders, customers, and products. The dataset contains information on orders placed, customer details, and product information. The project aims to calculate total sales over time, analyze sales by country, identify the top 5 customers, and create interactive dashboards to visualize key insights.
+
+**Skills:** Excel functions and formulas; data cleaning; pivot tables; data analysis; dashboard creation.
+
+**Technology:** Microsoft Excel.
 
 
 # Education
