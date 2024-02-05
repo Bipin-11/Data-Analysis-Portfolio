@@ -8,16 +8,18 @@ This repository serves to showcase my skills, as a platform to share my projects
 
 # Table of Contents
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
-* Porfolio Projects
+* [Porfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#potfolio-projects)
    * Python
    * SQL
+     * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
+     * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
    * Excel
-   * Tableau
-* Education
-* Certificates
-* Contact
+   * Tableau [Tableau Project Link](https://public.tableau.com/app/profile/bipin.chaudhary3964/vizzes)
+* [Education](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#education)
+* [Certificates](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
+* [Contact](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#contacts)
 
-# Potfolio Projects
+# Portfolio Projects
 In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
 # Nashville Housing Data Cleaning
