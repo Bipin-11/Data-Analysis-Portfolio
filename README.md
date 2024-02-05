@@ -14,7 +14,8 @@ This repository serves to showcase my skills, as a platform to share my projects
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
    * Excel
-     * [Bike Sales Analysis and Customer Profiling Dashboard in Excel](
+     * [Bike Sales Analysis and Customer Profiling Dashboard](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#bike-sales-analysis-and-customer-profiling)
+     * [Coffee Sales Analysis and Interactive Dashboard Creation](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#coffee-sales-analysis)
    * Tableau [Tableau Project Link](https://public.tableau.com/app/profile/bipin.chaudhary3964/vizzes)
 * [Education](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#education)
 * [Certificates](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
