@@ -10,7 +10,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
-     
+     * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Web%20Scraping%20of%20All-Time%20Favorite%20Romance%20Novels%20from%20Goodreads.ipynb)
    * SQL
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
@@ -24,6 +24,20 @@ This repository serves to showcase my skills, as a platform to share my projects
 
 # Portfolio Projects
 In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
+
+# Web Scraping of All-Time Favorite Romance Novels from Goodreads
+
+**Code:** [Web Scraping of All-Time Favorite Romance Novels from Goodreads.ipynb](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Web%20Scraping%20of%20All-Time%20Favorite%20Romance%20Novels%20from%20Goodreads.ipynb)
+
+**Goal:** The goal of this project is to scrape data from the Goodreads website to gather information about all-time favorite romance novels. The data includes book titles, authors, average scores, ratings, and number of votes.
+
+**Description:** The project revolves around extracting data from Goodreads' "All-Time Favorite Romance Novels" list through web scraping. The script systematically sends HTTP requests to each page of the list, retrieving book details including title, author, average score, rating, and number of votes. These details are then organized and stored within the respective lists for further analysis. The extraction process relies on the BeautifulSoup library, which facilitates the parsing of HTML content and the extraction of pertinent information from web pages. This approach enables the collection of comprehensive data from the specified source, aiding in insight generation and potential analysis.
+
+**Skills:** Web Scraping, Data Extraction, Data Manipulation, Python Programming
+
+**Technology:** Python, BeautifulSoup, Requests
+
+**Results:** The project successfully scraped data from Goodreads' "All Time Favorite Romance Novels" list, extracting book titles, authors, average scores, ratings, and votes. This data is stored in lists for further analysis or exportation, offering insights into readers' preferences within the romance genre.
 
 # Nashville Housing Data Cleaning
 **Code:** [Data Cleaning Nashville Housing Project.sql](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Nashville%20Housing%20Data%20Cleaing%20Project.sql)
