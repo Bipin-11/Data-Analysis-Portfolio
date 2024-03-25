@@ -10,7 +10,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
-     * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Web%20Scraping%20of%20All-Time%20Favorite%20Romance%20Novels%20from%20Goodreads.ipynb)
+     * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
    * SQL
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
