@@ -10,6 +10,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
+     
    * SQL
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
@@ -65,7 +66,8 @@ In this section, I will list data analytics projects, briefly describing the tec
 
 
 # Education
-Tribhuvan University: Bachelor in Computer Science and Information Technology, 2018 - 2023
+- **High School:** Shikshadeep College, *2016 - 2018*
+- **Tribhuvan University:** Bachelor in Computer Science and Information Technology, *2018 - 2023*
 
 # Certificates
 I believe that the best way to showcase skills is by doing and sharing your job, but sometimes certificates appear to be an indirect result. So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
