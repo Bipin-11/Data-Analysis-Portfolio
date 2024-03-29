@@ -11,6 +11,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
+     * [Exploring eBay Car Sales Data]()
    * SQL
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
@@ -38,6 +39,20 @@ In this section, I will list data analytics projects, briefly describing the tec
 **Technology:** Python, BeautifulSoup, Requests
 
 **Results:** The project successfully scraped data from Goodreads' "All Time Favorite Romance Novels" list, extracting book titles, authors, average scores, ratings, and votes. This data is stored in lists for further analysis or exportation, offering insights into readers' preferences within the romance genre.
+
+# Exploring eBay Car Sales Data
+
+**Code:** [Exploring eBay Car Sales Data.ipynb](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
+
+**Goal:** The objective of this project is to analyze a dataset of used car listings from eBay Kleinanzeigen, the classifieds section of the German eBay website. The goal is to clean up the data and perform initial exploratory analysis to gain insights into various aspects of the used car market.
+
+**Description:** This project entails exploring a dataset of used car listings from eBay Kleinanzeigen. The dataset contains attributes such as car make, model, price, odometer reading, registration year, and more. The primary tasks involve data cleaning, including handling missing values and correcting data types, followed by exploratory analysis to understand patterns and trends in the used car market.
+
+**Skills:** Data Cleaning, Exploratory Data Analysis , Python Programming
+
+**Technology:** Python, Pandas, NumPy
+
+**Results:** The project successfully cleaned the dataset and performed exploratory analysis to uncover insights into the used car market on eBay Kleinanzeigen. Key findings include the distribution of car prices, the influence of mileage on prices, popular car brands, and more. These insights can inform decision-making processes for buyers, sellers, and market analysts within the used car industry.
 
 # Nashville Housing Data Cleaning
 **Code:** [Data Cleaning Nashville Housing Project.sql](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Nashville%20Housing%20Data%20Cleaing%20Project.sql)
