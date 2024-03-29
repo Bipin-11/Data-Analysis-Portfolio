@@ -11,7 +11,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
-     * [Exploring eBay Car Sales Data]()
+     * [Exploring eBay Car Sales Data](https://github.com/Bipin-11/Data-Analysis-Portfolio#exploring-ebay-car-sales-data)
    * SQL
      * [Nashville Housing Data Cleaning](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
      * [Covid 19 Data Exploration](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
