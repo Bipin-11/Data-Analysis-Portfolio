@@ -40,6 +40,21 @@ In this section, I will list data analytics projects, briefly describing the tec
 
 **Results:** The project successfully scraped data from Goodreads' "All Time Favorite Romance Novels" list, extracting book titles, authors, average scores, ratings, and votes. This data is stored in lists for further analysis or exportation, offering insights into readers' preferences within the romance genre.
 
+# Exploratory Data Analysis
+
+**Code:** [Exploratory Data Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Exploratory%20Data%20Analysis%20in%20Pandas.ipynb)
+
+**Goal:** The goal of the project appears to be to analyze world population data to gain insights into population trends across different continents and over various time periods. This analysis might include examining population distributions, growth rates, correlations between different variables, and comparing population statistics across continents.
+
+**Description:** The project involves loading a dataset containing world population data, performing data cleaning and preprocessing tasks, exploring the data to understand its structure and characteristics, conducting various analyses such as correlation analysis and group-wise statistics, and visualizing the findings using charts and plots.
+
+**Skills:** Python Programming, Data Handling and Manipulation, Data Visualizations
+
+**Technology:** Python, Pandas, Numpy, Matplotlib,  Seaborn
+
+**Results:** The project yields summary statistics outlining the world population dataset and presents visualizations like heatmaps, box plots, and line plots to illustrate population trends and correlations. These insights offer a concise understanding of global demographic shifts across continents and time periods. Moreover, the analysis provides actionable insights for potential recommendations or further exploration based on project objectives.
+
+
 # Exploring eBay Car Sales Data
 
 **Code:** [Exploring eBay Car Sales Data.ipynb](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
