@@ -10,6 +10,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
    * Python
+     *[IBM Data Analyst Capstone Project]()
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
      * [Exploratory Data Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#exploratory-data-analysis)
      * [Exploring eBay Car Sales Data](https://github.com/Bipin-11/Data-Analysis-Portfolio#exploring-ebay-car-sales-data)
@@ -27,6 +28,22 @@ This repository serves to showcase my skills, as a platform to share my projects
 
 # Portfolio Projects
 In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
+
+# IBM Data Analyst Capstone Project
+
+**Code:** [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project)
+
+**Goal:** As a Data Analyst at a global IT and business consulting services firm, the goal of this project is to collect, analyze, and present insights on the emerging programming skills in demand. The project aims to identify the top programming languages, database skills, popular IDEs, and future trends in the technology landscape. This information will help the organization understand current skill requirements and prepare for future technological advancements.
+
+**Description:** This project involves collecting data from various sources, such as job postings, training portals, and surveys, to identify emerging programming skills. The data will be collected in various formats, including CSV files, Excel sheets, and databases, through web scraping and accessing APIs. Data wrangling techniques will be applied to prepare the collected data for analysis. Statistical techniques will then be employed to analyze the data and identify trends in programming languages, database skills, IDE usage, and future technology trends. Finally, insights and findings will be presented using IBM Cognos Analytics to create a dashboard, and a presentation will be prepared to share the findings with stakeholders.
+
+**Skills:** Data Collection, Web Scraping, Data Wrangling, Statistical Analysis, Data Visualization, Presentation Skills
+
+**Technology:** Python, BeautifulSoup, Requests,  Pandas, Numpy, Matplotlib,  Seaborn, IBM Cognos Analytics (for creating dashboards)
+
+**Results:** Following extensive data collection and analysis, several significant insights have been uncovered regarding the current landscape of programming skills and technology trends. The analysis revealed that the most prevalent programming languages in demand include JavaScript, HTML/CSS, and SQL, collectively constituting 47.5% of total usage. Additionally, MySQL emerged as the dominant database, boasting an 18.7% usage rate. In terms of platforms, Linux and Windows emerged as the primary choices, accounting for 29% of total usage. Moreover, Angular/Angular.js was identified as the leading web framework, with a notable usage rate of 23.8%.
+
+Looking towards future trends, JavaScript maintains its position as the most desired language, while PostgreSQL emerges as the top desired database. Lastly, the analysis of demographics highlighted a significant gender disparity, with men comprising 92.3% of the sample, along with a substantial portion holding Bachelor's degrees. These findings provide valuable insights for understanding current industry demands and anticipating future skill requirements in the rapidly evolving IT landscape.
 
 # Web Scraping of All-Time Favorite Romance Novels from Goodreads
 
