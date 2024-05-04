@@ -9,6 +9,10 @@ This repository serves to showcase my skills, as a platform to share my projects
 # Table of Contents
 * [About](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md)
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
+
+   * SQL, Excel, Tableau
+     * [Sales Performance Analysis]()
+  
    * Python
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
@@ -21,13 +25,31 @@ This repository serves to showcase my skills, as a platform to share my projects
    * Excel
      * [Bike Sales Analysis and Customer Profiling Dashboard](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#bike-sales-analysis-and-customer-profiling)
      * [Coffee Sales Analysis and Interactive Dashboard Creation](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#coffee-sales-analysis)
+   
    * Tableau [Tableau Project Link](https://public.tableau.com/app/profile/bipin.chaudhary3964/vizzes)
+
 * [Education](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#education)
 * [Certificates](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
 * [Contact](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#contacts)
 
 # Portfolio Projects
 In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
+
+# Sales Performance Analysis
+
+**Code:** [Sales Data Script](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Sales%20Data%20Script.sql)
+          [Sales Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Sales%20Analysis.xlsx)
+          [Interactive Dashboard](https://public.tableau.com/app/profile/bipin.chaudhary3964/viz/SalesPerformanceAnalysis_17147096187610/Dashboard1)
+
+**Goal:** The goal of this project is to analyze sales data to identify trends and patterns, create interactive dashboards for visualizing sales performance metrics, and provide actionable insights to improve sales strategies and optimize business performance.
+
+**Description:** This project utilizes SQL and Excel for data analysis and Tableau for creating interactive dashboards. The analysis includes exploring historical sales data, identifying key performance indicators (KPIs), detecting trends, and generating actionable insights to drive decision-making processes. The interactive dashboards allow stakeholders to visualize sales performance metrics dynamically, facilitating a deeper understanding of sales trends and enabling data-driven decision-making.
+
+**Skills:** Data Analysis, SQL, Excel, Data Visualization, Dashboard Design
+
+**Technology:** SQL, Microsoft Excel, Tableau
+
+**Results:** The Sales Performance Analysis project has successfully identified key trends in sales data, developed interactive Tableau dashboards for visualizing performance metrics, and provided actionable insights to enhance sales strategies and optimize business performance. These outcomes have facilitated data-driven decision-making processes, empowering stakeholders to make informed choices and adapt quickly to market dynamics.
 
 # IBM Data Analyst Capstone Project
 
@@ -136,6 +158,7 @@ Looking towards future trends, JavaScript maintains its position as the most des
 I believe that the best way to showcase skills is by doing and sharing your job, but sometimes certificates appear to be an indirect result. So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
 * [Data Analytics Essentials](https://www.credly.com/badges/5cf01f7e-f68b-40b6-bd4f-80e4e3b2a22b/public_url) (Jan 2024) (Cisco Networking Academy)
+* [IBM Data Analytics](https://coursera.org/share/4f98ea31f179eb5a4c0c0962e01a632d) (Mar 2024) (IBM)
 
 # Contacts
 * LinkedIn: [@bipinchaudhary](www.linkedin.com/in/chaudharybipin)
