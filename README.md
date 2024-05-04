@@ -11,7 +11,7 @@ This repository serves to showcase my skills, as a platform to share my projects
 * [Portfolio Projects](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
 
    * SQL, Excel, Tableau
-     * [Sales Performance Analysis]()
+     * [Sales Performance Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#sales-performance-analysis)
   
    * Python
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
