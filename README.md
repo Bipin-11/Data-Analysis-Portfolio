@@ -15,6 +15,7 @@ This repository serves to showcase my skills, as a platform to share my projects
   
    * Python
      * [Credit Card Customer Segmentation](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#credit-card-customer-segmentation)
+     * [Predicting Heart Disease]()
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
      * [Exploratory Data Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#exploratory-data-analysis)
@@ -69,6 +70,41 @@ In this section, I will list data analytics projects, briefly describing the tec
 - **Cluster 5:** High-income men with low utilization rates. Suggested to encourage card usage through incentives.
 - **Cluster 6:** Single women with low income and high utilization rates. Suggested to increase credit limits modestly.
 
+# Predicting Heart Disease
+
+**Code:** [Predicting Heart Disease](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Predicting%20Heart%20Disease%20.ipynb)
+
+**Goal:** The goal of this project is to predict the likelihood of a new patient developing cardiovascular disease (CVD) in the future using a K-Nearest Neighbors (KNN) classifier. By identifying risk factors and accurately predicting heart disease, early detection and prevention measures can be implemented to save lives.
+
+**Description:** This project involves analyzing anonymous patient data collected from multiple hospitals, which includes various medical characteristics such as age, sex, blood pressure, and cholesterol levels. The steps followed in the project are:
+
+1. **Importing Libraries:** Importing necessary libraries for data manipulation, visualization, and machine learning.
+2. **Exploratory Data Analysis (EDA):**
+    - **Descriptive Statistics:** Understanding the dataset's structure and basic statistics.
+    - **Categorical Data Analysis:** Examining categorical variables and their relationship with heart disease.
+3. **Data Cleaning:** Handling missing values and correcting erroneous data entries (e.g., zero values in RestingBP and Cholesterol).
+4. **Feature Selection:** Identifying and selecting features that are strongly correlated with heart disease.
+5. **Building the classifier:**
+    - Splitting the dataset into training and test sets.
+    - Normalizing the data using MinMaxScaler.
+    - Training the KNN classifier with optimal hyperparameters.
+6. **Hyperparameter Optimization:** Using GridSearchCV to find the best hyperparameters for the KNN model.
+7. **Model Evaluation:** Evaluating the model's performance on the test set.
+
+**Skills:** Data Analysis, Data Cleaning, Feature Engineering, Statistical Analysis, Machine Learning, Hyperparameter Tuning, Model Evaluation
+
+**Technology:**
+- **Programming Language:** Python
+- **Libraries:**
+    - Pandas for data manipulation
+    - Numpy for numerical operations
+    - Matplotlib and Seaborn for data visualization
+    - Scikit-learn for machine learning algorithms, data preprocessing, and model evaluation
+
+**Results:** The project resulted in a K-Nearest Neighbors classifier with the following characteristics and performance:
+- **Selected Features:** Oldpeak, Sex_M, ExerciseAngina_Y, ST_Slope_Flat, ST_Slope_Up
+- **Best Model Hyperparameters:** 16 neighbors, Minkowski Distance Metric
+- **Model Accuracy on Test Set:** 87.68%
 
 # Sales Performance Analysis
 
