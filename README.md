@@ -15,7 +15,7 @@ This repository serves to showcase my skills, as a platform to share my projects
   
    * Python
      * [Credit Card Customer Segmentation](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#credit-card-customer-segmentation)
-     * [Predicting Heart Disease]()
+     * [Predicting Heart Disease](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-heart-disease)
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
      * [Exploratory Data Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#exploratory-data-analysis)
