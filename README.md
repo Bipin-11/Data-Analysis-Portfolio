@@ -14,6 +14,7 @@ This repository serves to showcase my skills, as a platform to share my projects
      * [Sales Performance Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#sales-performance-analysis)
   
    * Python
+     * [Credit Card Customer Segmentation]()
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
      * [Exploratory Data Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#exploratory-data-analysis)
@@ -34,6 +35,40 @@ This repository serves to showcase my skills, as a platform to share my projects
 
 # Portfolio Projects
 In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
+
+# Credit Card Customer Segmentation
+
+**Code:** [Credit Card Customer Segmentation](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/%20Credit%20Card%20Customer%20Segmentation.ipynb)
+
+**Goal:** The goal of this project is to segment a credit card company's customers into distinct groups using the K-means clustering algorithm. This segmentation will help the company develop tailored business strategies for each group, such as providing higher credit limits for frequent card users with low spending or creating incentives for high-income customers who do not use the card as much.
+
+**Description:**: The project involves analyzing a dataset containing information on the company's clients, including demographic details, spending behavior, and credit card usage. The steps followed in the project are:
+
+- **Analyzing the Dataset:** Understanding the Structure and Characteristics of the Dataset.
+- **Data Preparation:** Handling categorical variables and standardizing the data.
+- **Finding the Appropriate Number of Clusters:** Using the elbow method to determine the optimal number of clusters.
+- **Segmentation:** Applying the K-means clustering algorithm to segment the customers.
+- **Interpreting and Explaining the Results:** Analyzing the characteristics of each cluster and providing insights.
+
+**Skills:** Data Analysis, Data Preprocessing, Feature Engineering, Clustering Algorithms (K-means), Statistical Analysis, Data Visualization, Interpretation of Clustering Results
+
+**Technology:** 
+- **Programming Language:** Python
+- **Libraries:**
+  - pandas for data manipulation
+  - numpy for numerical operations
+  - matplotlib and seaborn for data visualization
+  - scikit-learn for machine learning algorithms and preprocessing
+
+**Results:** The project resulted in the segmentation of customers into six distinct clusters, each with unique characteristics. The clusters were analyzed and interpreted to provide insights and suggestions for business strategies:
+
+- **Cluster 1:** Mostly married women with low income and high utilization rates. Suggested to offer benefits for higher spending.
+- **Cluster 2:** Mostly men with high credit limits and low utilization rates. Suggested to incentivize more frequent use.
+- **Cluster 3:** Mixed gender with low credit limits and high utilization rates. Suggested to offer better credit terms.
+- **Cluster 4:** Older, long-time customers with high utilization rates. Suggested to offer loyalty benefits.
+- **Cluster 5:** High-income men with low utilization rates. Suggested to encourage card usage through incentives.
+- **Cluster 6:** Single women with low income and high utilization rates. Suggested to increase credit limits modestly.
+
 
 # Sales Performance Analysis
 
