@@ -16,6 +16,7 @@ This repository serves to showcase my skills, as a platform to share my projects
    * Python
      * [Credit Card Customer Segmentation](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#credit-card-customer-segmentation)
      * [Predicting Heart Disease](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-heart-disease)
+     * [Predicting PM2.5 Levels in Nairobi Using AutoReg Modeling]()
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
      * [Exploratory Data Analysis](https://github.com/Bipin-11/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#exploratory-data-analysis)
@@ -105,6 +106,21 @@ In this section, I will list data analytics projects, briefly describing the tec
 - **Selected Features:** Oldpeak, Sex_M, ExerciseAngina_Y, ST_Slope_Flat, ST_Slope_Up
 - **Best Model Hyperparameters:** 16 neighbors, Minkowski Distance Metric
 - **Model Accuracy on Test Set:** 87.68%
+
+# Predicting PM2.5 Levels in Nairobi Using AutoReg Modeling
+
+**Code:** [Predicting PM2.5 Levels in Nairobi Using AutoReg Modeling](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Predicting%20PM2.5%20Levels%20in%20Nairobi%20Using%20AutoReg%20Modeling.ipynb)
+
+**Goal:** The goal of this project is to develop a time series model to predict PM2.5 levels in Nairobi using historical air quality data, thereby aiding air quality management and public health protection.
+
+**Description:** This project involves cleaning and preprocessing a dataset of PM2.5 readings, exploring data through visualizations, and implementing an AutoReg (Autoregressive) model to predict future PM2.5 levels. The model's performance is evaluated using Mean Absolute Error (MAE) and residual analysis.
+
+**Skills:** Data Preprocessing, Time Series Analysis, Data Visualization, Statistical Modeling, Model Evaluation
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Statsmodels
+
+**Results::** The project successfully implemented an AutoReg model that accurately predicts PM2.5 levels in Nairobi. The model demonstrated satisfactory performance, with future work suggested to explore advanced time series models and additional environmental factors to further enhance prediction accuracy.
+
 
 # Sales Performance Analysis
 
