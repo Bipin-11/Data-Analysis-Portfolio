@@ -16,6 +16,7 @@ This repository serves to showcase my skills, as a platform to share my projects
    * Python
      * [Credit Card Customer Segmentation](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#credit-card-customer-segmentation)
      * [Predicting Heart Disease](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-heart-disease)
+     * [Predicting Medical Insurance Costs](https://github.com/Bipin-11/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#predicting-medical-insurance-costs)
      * [Predicting PM2.5 Levels in Nairobi Using AutoReg Modeling](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-pm25-levels-in-nairobi-using-autoreg-modeling)
      * [IBM Data Analyst Capstone Project](https://github.com/Bipin-11/Data-Analysis-Portfolio?tab=readme-ov-file#ibm-data-analyst-capstone-project)
      * [Web Scraping of All-Time Favorite Romance Novels from Goodreads](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/README.md#web-scraping-of-all-time-favorite-romance-novels-from-goodreads)
