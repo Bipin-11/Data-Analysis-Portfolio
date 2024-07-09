@@ -107,6 +107,29 @@ In this section, I will list data analytics projects, briefly describing the tec
 - **Best Model Hyperparameters:** 16 neighbors, Minkowski Distance Metric
 - **Model Accuracy on Test Set:** 87.68%
 
+# Predicting Medical Insurance Costs
+
+**Code:** [Predicting Medical Insurance Costs](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/%20Predicting%20Medical%20Insurance%20Costs.ipynb)
+
+**Goal:** The goal of this project is to develop a predictive model that accurately estimates individual medical insurance costs based on demographic and health-related attributes of the insured individuals.
+
+**Description:** The project utilizes a dataset from Kaggle containing information on medical insurance bills, including attributes such as age, gender, BMI, number of children, smoking status, region, and medical charges. The dataset is preprocessed to handle missing values, encode categorical variables, and scale numerical features to improve model performance.It involves data exploration, feature selection, and evaluating regression algorithms like linear regression, stochastic regression, elastic networks, decision trees, K-nearest neighbors (KNN), and support vector regression (SVR). Hyperparameter tuning and ensemble methods (AdaBoost, Gradient Boosting, Random Forests, and Extra Trees) are employed to improve prediction accuracy.
+
+**Skills:** Data preprocessing and cleaning, Exploratory Data Analysis (EDA), Regression modeling and evaluation, Hyperparameter tuning using Grid Search, Ensemble methods for improving model performance
+
+**Technology:** 
+- **Python:** Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, visualization, and exploratory analysis.
+- **Scikit-learn:** Machine learning library for regression algorithms, cross-validation, and hyperparameter tuning.
+- **Jupyter Notebook:** An integrated development environment for executing and documenting the entire data analysis pipeline.
+
+**Results:**
+- Developed a predictive model for estimating medical insurance costs based on demographic and health-related data.
+- Achieved a high level of accuracy in predicting medical charges using the Gradient Boosting Regressor.
+- Identified significant predictors of medical insurance costs, such as age, BMI, smoking status, and region.
+- Provided insights into how different factors contribute to variations in medical charges.
+
+This project demonstrates the application of machine learning techniques to real-world healthcare data, highlighting the potential for predictive modeling to assist in understanding and estimating medical costs.
+
 # Predicting PM2.5 Levels in Nairobi Using AutoReg Modeling
 
 **Code:** [Predicting PM2.5 Levels in Nairobi Using AutoReg Modeling](https://github.com/Bipin-11/Data-Analysis-Portfolio/blob/main/Predicting%20PM2.5%20Levels%20in%20Nairobi%20Using%20AutoReg%20Modeling.ipynb)
